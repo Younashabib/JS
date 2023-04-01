@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(240, 255, 202);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 75px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.first {
+    color: red;
+}
+
+#your-name {
+    color: blueviolet;
+    border: 5px solid #444;
+}
